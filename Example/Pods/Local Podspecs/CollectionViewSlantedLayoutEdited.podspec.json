@@ -1,0 +1,22 @@
+{
+  "name": "CollectionViewSlantedLayoutEdited",
+  "version": "0.1.0",
+  "summary": "A short description of CollectionViewSlantedLayoutEdited.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/Thien Luong Quoc/CollectionViewSlantedLayoutEdited",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Thien Luong Quoc": "thien.luong@asiantech.vn"
+  },
+  "source": {
+    "git": "https://github.com/Thien Luong Quoc/CollectionViewSlantedLayoutEdited.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "CollectionViewSlantedLayoutEdited/Classes/**/*"
+}

@@ -1,0 +1,6 @@
+use_frameworks!
+target 'CollectionViewSlantedLayoutEdited_Tests' do
+  pod 'CollectionViewSlantedLayoutEdited', :path => '../'
+  
+  
+end
